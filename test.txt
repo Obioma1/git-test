@@ -1,2 +1,1 @@
-Hello
-This is replacement file as second commit
+all replaced
